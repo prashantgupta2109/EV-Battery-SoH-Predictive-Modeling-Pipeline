@@ -1,0 +1,24 @@
+# =============================================================================
+#  requirements.txt
+#  EV Battery SoH Predictive Modeling Pipeline
+#
+#  Install all dependencies with:
+#      pip install -r requirements.txt
+#
+#  Minimum Python version: 3.8
+# =============================================================================
+
+# Core data science
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Gradient boosting model
+lightgbm>=3.3.0
+
+# Model serialisation
+joblib>=1.2.0
+
+# Dashboard & visualisation
+streamlit>=1.28.0
+plotly>=5.14.0
