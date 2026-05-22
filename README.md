@@ -319,7 +319,7 @@ LightGBM reports the contribution of each input feature to the model's predictio
 
 ```bash
 # If using Git:
-git clone <your-repo-url>
+git clone <https://github.com/prashantgupta2109/EV-Battery-SoH-Predictive-Modeling-Pipeline.git>
 
 # Or simply copy the project folder to your machine.
 ```
